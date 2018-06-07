@@ -149,7 +149,7 @@ branches:
     - master
     - release-2.11
     - prerelease-2.12.0
-    - gradle-cache
+    - travis-snapshots
 
 # notifications:
 #   irc:
